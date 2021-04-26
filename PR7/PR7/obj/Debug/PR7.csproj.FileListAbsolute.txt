@@ -1,0 +1,7 @@
+C:\Users\Ez\source\repos\PR7\PR7\bin\Debug\PR7.exe.config
+C:\Users\Ez\source\repos\PR7\PR7\bin\Debug\PR7.exe
+C:\Users\Ez\source\repos\PR7\PR7\bin\Debug\PR7.pdb
+C:\Users\Ez\source\repos\PR7\PR7\obj\Debug\PR7.csprojAssemblyReference.cache
+C:\Users\Ez\source\repos\PR7\PR7\obj\Debug\PR7.csproj.CoreCompileInputs.cache
+C:\Users\Ez\source\repos\PR7\PR7\obj\Debug\PR7.exe
+C:\Users\Ez\source\repos\PR7\PR7\obj\Debug\PR7.pdb
